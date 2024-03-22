@@ -1,0 +1,18 @@
+{
+  "Index": {
+    "title": "Hello world!"
+  },
+  "Menu": {
+      "home": "Home",
+      "findTicket": "Search",
+      "ticketInfo": "Booking Information",
+      "returnTicket": "Return Ticket",
+      "checkTicket": "Check Valid Ticket",
+      "timePrice": "Timetable - Prices",
+      "promotions": "Promotions",
+      "rules": "Terms and Conditions",
+      "instruction": "How To Buy Tickets",
+      "contact": "Contact",
+      "language": "Tiếng Việt"
+   }
+}

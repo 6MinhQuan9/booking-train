@@ -1,4 +1,19 @@
+import createNextIntlPlugin from 'next-intl/plugin';
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+ 
+const withNextIntl = createNextIntlPlugin();
 
-export default nextConfig;
+const nextConfig = {
+   images: {
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'dsvn.vn',
+        port: '',
+        pathname: '/**',
+      },
+    ],
+  },
+};
+
+export default withNextIntl(nextConfig);

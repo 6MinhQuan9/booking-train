@@ -1,0 +1,18 @@
+{
+   "Index": {
+      "title": "Xin chao!"
+   },
+   "Menu": {
+      "home": "Trang chủ",
+      "findTicket": "Tìm vé",
+      "ticketInfo": "Thông tin đặt chỗ",
+      "returnTicket": "Trả vé",
+      "checkTicket": "Kiểm tra vé",
+      "timePrice": "Giờ tàu - giá vé",
+      "promotions": "Khuyến mại",
+      "rules": "Các quy định",
+      "instruction": "Hướng dẫn",
+      "contact": "Liên hệ",
+      "language": "English"
+   }
+}
